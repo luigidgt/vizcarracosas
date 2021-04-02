@@ -8,7 +8,7 @@ const quotes = [
 
 /**
  * Gets a random Vizcarra Quote
- * @returns {string}
+ * @return string}
  */
 function randomQuote() {
   return quotes[Math.floor(Math.random() * quotes.length)];
