@@ -1,0 +1,19 @@
+{
+  "name": "vizcarracosas",
+  "version": "0.1.0",
+  "description": "Get a random vizcarracosa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "luigidgt.github.com:luigidgt/vizcarracosas.git"
+  },
+  "author": "Luigi Mendoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luigidgt/vizcarracosas/issues"
+  },
+  "homepage": "https://github.com/luigidgt/vizcarracosas#readme"
+}
