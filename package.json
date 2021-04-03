@@ -1,6 +1,6 @@
 {
   "name": "vizcarracosas",
-  "version": "0.1.1",
+  "version": "3.0.0",
   "description": "Get a random vizcarracosa",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/luigidgt/vizcarracosas/issues"
   },
-  "homepage": "https://github.com/luigidgt/vizcarracosas#readme"
+  "homepage": "https://github.com/luigidgt/vizcarracosas#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }

@@ -1,3 +1,4 @@
+const _ = require('lodash');
 const quotes = [
   "El único delito, lo único ilegal, que está comprobado hasta ahora, es la grabación clandestina",
   "Todavía hay políticos que tratan de imitar a Goebbels. Miente, miente, que algo queda",
@@ -11,7 +12,7 @@ const quotes = [
  * @return string}
  */
 function randomQuote() {
-  return quotes[Math.floor(Math.random() * quotes.length)];
+  return _.sample(quotes);
 }
 
 module.exports = {
