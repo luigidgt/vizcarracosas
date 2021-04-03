@@ -4,7 +4,8 @@
   "description": "Get a random vizcarracosa",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/luigidgt/vizcarracosas#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "standard-version": "^9.1.1"
   }
 }
