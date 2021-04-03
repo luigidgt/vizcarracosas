@@ -1,6 +1,6 @@
 {
   "name": "vizcarracosas",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Get a random vizcarracosa",
   "main": "index.js",
   "scripts": {
